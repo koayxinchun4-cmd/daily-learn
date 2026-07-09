@@ -1,12 +1,12 @@
-## Today's Pick: 2026-07-08
+## Today's Pick: 2026-07-09
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
-| 1 | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmap for every path | ⭐312000 |
-| 2 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | Every algorithm implemented in Python | ⭐201000 |
-| 3 | [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) | Tiered project ideas beginner→advanced | ⭐82000 |
-| 4 | [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) | 33 core concepts every JS dev needs | ⭐65000 |
-| 5 | [huggingface/transformers](https://github.com/huggingface/transformers) | All state-of-the-art models | ⭐145000 |
+| 1 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12-week ML curriculum by Microsoft | ⭐72000 |
+| 2 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | Algorithms in JS with explanations | ⭐191000 |
+| 3 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the terminal in one page | ⭐155000 |
+| 4 | [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) | Tiered project ideas beginner→advanced | ⭐82000 |
+| 5 | [NUKnightLab/sql-murder-mystery](https://github.com/NUKnightLab/sql-murder-mystery) | Learn SQL by solving a crime | ⭐17000 |
 
 ## Archive
 
@@ -25,7 +25,9 @@
 
 
 
-| [2026-07-08](records/2026-07-08.md) | tools + algorithms |
+
+| [2026-07-09](records/2026-07-09.md) | ai_ml + algorithms |
+ [2026-07-08](records/2026-07-08.md) | tools + algorithms |
  [2026-07-07](records/2026-07-07.md) | ai_ml + algorithms |
  [2026-07-06](records/2026-07-06.md) | ai_ml + tools |
  [2026-07-05](records/2026-07-05.md) | projects + tools |

@@ -1,11 +1,11 @@
-## Today's Pick: 2026-07-11
+## Today's Pick: 2026-07-12
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
-| 1 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | Every algorithm implemented in Python | ⭐201000 |
-| 2 | [NUKnightLab/sql-murder-mystery](https://github.com/NUKnightLab/sql-murder-mystery) | Learn SQL by solving a crime | ⭐17000 |
-| 3 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how big systems work | ⭐293000 |
-| 4 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Largest free programming book collection | ⭐355000 |
+| 1 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Build real things by language | ⭐216000 |
+| 2 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12-week ML curriculum by Microsoft | ⭐72000 |
+| 3 | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmap for every path | ⭐312000 |
+| 4 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | Algorithms in 11 languages — animated, interactive | ⭐107000 |
 | 5 | [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | Deep JS concepts, free book series | ⭐182000 |
 
 ## Archive
@@ -28,7 +28,9 @@
 
 
 
-| [2026-07-11](records/2026-07-11.md) | algorithms + sql |
+
+| [2026-07-12](records/2026-07-12.md) | projects + ai_ml |
+ [2026-07-11](records/2026-07-11.md) | algorithms + sql |
  [2026-07-10](records/2026-07-10.md) | ai_ml + sql |
  [2026-07-09](records/2026-07-09.md) | ai_ml + algorithms |
  [2026-07-08](records/2026-07-08.md) | tools + algorithms |

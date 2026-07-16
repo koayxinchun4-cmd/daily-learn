@@ -1,12 +1,12 @@
-## Today's Pick: 2026-07-15
+## Today's Pick: 2026-07-16
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
-| 1 | [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) | 33 core concepts every JS dev needs | ⭐65000 |
-| 2 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | Every algorithm implemented in Python | ⭐201000 |
-| 3 | [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) | Everything database tools | ⭐4000 |
-| 4 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Largest free programming book collection | ⭐355000 |
-| 5 | [realpython/python-guide](https://github.com/realpython/python-guide) | Best practices, packaging, deployment | ⭐28000 |
+| 1 | [huggingface/transformers](https://github.com/huggingface/transformers) | All state-of-the-art models | ⭐145000 |
+| 2 | [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | Deep JS concepts, free book series | ⭐182000 |
+| 3 | [faif/python-patterns](https://github.com/faif/python-patterns) | Design patterns in Python | ⭐41000 |
+| 4 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | Every algorithm implemented in Python | ⭐201000 |
+| 5 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Build real things by language | ⭐216000 |
 
 ## Archive
 
@@ -32,7 +32,9 @@
 
 
 
-| [2026-07-15](records/2026-07-15.md) | javascript + algorithms |
+
+| [2026-07-16](records/2026-07-16.md) | ai_ml + javascript |
+ [2026-07-15](records/2026-07-15.md) | javascript + algorithms |
  [2026-07-14](records/2026-07-14.md) | ai_ml + python |
  [2026-07-13](records/2026-07-13.md) | sql + javascript |
  [2026-07-12](records/2026-07-12.md) | projects + ai_ml |

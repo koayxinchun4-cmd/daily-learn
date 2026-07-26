@@ -1,12 +1,12 @@
-## Today's Pick: 2026-07-25
+## Today's Pick: 2026-07-26
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
 | 1 | [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | Deep JS concepts, free book series | ⭐182000 |
-| 2 | [huggingface/transformers](https://github.com/huggingface/transformers) | All state-of-the-art models | ⭐145000 |
-| 3 | [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) | Everything database tools | ⭐4000 |
-| 4 | [realpython/python-guide](https://github.com/realpython/python-guide) | Best practices, packaging, deployment | ⭐28000 |
-| 5 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the terminal in one page | ⭐155000 |
+| 2 | [NUKnightLab/sql-murder-mystery](https://github.com/NUKnightLab/sql-murder-mystery) | Learn SQL by solving a crime | ⭐17000 |
+| 3 | [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | Day-by-day Python, from print() to APIs | ⭐44000 |
+| 4 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Build real things by language | ⭐216000 |
+| 5 | [huggingface/transformers](https://github.com/huggingface/transformers) | All state-of-the-art models | ⭐145000 |
 
 ## Archive
 
@@ -42,7 +42,9 @@
 
 
 
-| [2026-07-25](records/2026-07-25.md) | javascript + ai_ml |
+
+| [2026-07-26](records/2026-07-26.md) | javascript + sql |
+ [2026-07-25](records/2026-07-25.md) | javascript + ai_ml |
  [2026-07-24](records/2026-07-24.md) | sql + tools |
  [2026-07-23](records/2026-07-23.md) | sql + python |
  [2026-07-22](records/2026-07-22.md) | tools + sql |

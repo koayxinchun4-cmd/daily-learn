@@ -1,12 +1,12 @@
-## Today's Pick: 2026-07-26
+## Today's Pick: 2026-07-27
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
-| 1 | [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | Deep JS concepts, free book series | ⭐182000 |
-| 2 | [NUKnightLab/sql-murder-mystery](https://github.com/NUKnightLab/sql-murder-mystery) | Learn SQL by solving a crime | ⭐17000 |
-| 3 | [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | Day-by-day Python, from print() to APIs | ⭐44000 |
-| 4 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Build real things by language | ⭐216000 |
-| 5 | [huggingface/transformers](https://github.com/huggingface/transformers) | All state-of-the-art models | ⭐145000 |
+| 1 | [huggingface/transformers](https://github.com/huggingface/transformers) | All state-of-the-art models | ⭐145000 |
+| 2 | [realpython/python-guide](https://github.com/realpython/python-guide) | Best practices, packaging, deployment | ⭐28000 |
+| 3 | [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) | Tiered project ideas beginner→advanced | ⭐82000 |
+| 4 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | Algorithms in JS with explanations | ⭐191000 |
+| 5 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Largest free programming book collection | ⭐355000 |
 
 ## Archive
 
@@ -43,7 +43,9 @@
 
 
 
-| [2026-07-26](records/2026-07-26.md) | javascript + sql |
+
+| [2026-07-27](records/2026-07-27.md) | ai_ml + python |
+ [2026-07-26](records/2026-07-26.md) | javascript + sql |
  [2026-07-25](records/2026-07-25.md) | javascript + ai_ml |
  [2026-07-24](records/2026-07-24.md) | sql + tools |
  [2026-07-23](records/2026-07-23.md) | sql + python |

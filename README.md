@@ -1,12 +1,12 @@
-## Today's Pick: 2026-07-30
+## Today's Pick: 2026-07-31
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
-| 1 | [huggingface/transformers](https://github.com/huggingface/transformers) | All state-of-the-art models | ⭐145000 |
-| 2 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | Every algorithm implemented in Python | ⭐201000 |
-| 3 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Largest free programming book collection | ⭐355000 |
-| 4 | [NUKnightLab/sql-murder-mystery](https://github.com/NUKnightLab/sql-murder-mystery) | Learn SQL by solving a crime | ⭐17000 |
-| 5 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Build your own DB, Git, bot, OS | ⭐350000 |
+| 1 | [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | Deep JS concepts, free book series | ⭐182000 |
+| 2 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12-week ML curriculum by Microsoft | ⭐72000 |
+| 3 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | Every algorithm implemented in Python | ⭐201000 |
+| 4 | [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | Day-by-day Python, from print() to APIs | ⭐44000 |
+| 5 | [NUKnightLab/sql-murder-mystery](https://github.com/NUKnightLab/sql-murder-mystery) | Learn SQL by solving a crime | ⭐17000 |
 
 ## Archive
 
@@ -47,7 +47,9 @@
 
 
 
-| [2026-07-30](records/2026-07-30.md) | ai_ml + algorithms |
+
+| [2026-07-31](records/2026-07-31.md) | javascript + ai_ml |
+ [2026-07-30](records/2026-07-30.md) | ai_ml + algorithms |
  [2026-07-29](records/2026-07-29.md) | tools + sql |
  [2026-07-28](records/2026-07-28.md) | python + ai_ml |
  [2026-07-27](records/2026-07-27.md) | ai_ml + python |

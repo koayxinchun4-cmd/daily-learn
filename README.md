@@ -1,12 +1,12 @@
-## Today's Pick: 2026-08-06
+## Today's Pick: 2026-08-07
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
-| 1 | [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) | Everything database tools | ⭐4000 |
+| 1 | [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) | Tiered project ideas beginner→advanced | ⭐82000 |
 | 2 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | Every algorithm implemented in Python | ⭐201000 |
-| 3 | [faif/python-patterns](https://github.com/faif/python-patterns) | Design patterns in Python | ⭐41000 |
-| 4 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Build real things by language | ⭐216000 |
-| 5 | [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | Deep JS concepts, free book series | ⭐182000 |
+| 3 | [NUKnightLab/sql-murder-mystery](https://github.com/NUKnightLab/sql-murder-mystery) | Learn SQL by solving a crime | ⭐17000 |
+| 4 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12-week ML curriculum by Microsoft | ⭐72000 |
+| 5 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Largest free programming book collection | ⭐355000 |
 
 ## Archive
 
@@ -54,7 +54,9 @@
 
 
 
-| [2026-08-06](records/2026-08-06.md) | sql + algorithms |
+
+| [2026-08-07](records/2026-08-07.md) | projects + algorithms |
+ [2026-08-06](records/2026-08-06.md) | sql + algorithms |
  [2026-08-05](records/2026-08-05.md) | projects + tools |
  [2026-08-04](records/2026-08-04.md) | algorithms + projects |
  [2026-08-03](records/2026-08-03.md) | ai_ml + sql |

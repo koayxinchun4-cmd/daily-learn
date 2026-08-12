@@ -1,12 +1,12 @@
-## Today's Pick: 2026-08-11
+## Today's Pick: 2026-08-12
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
 | 1 | [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | Day-by-day JavaScript | ⭐45000 |
-| 2 | [faif/python-patterns](https://github.com/faif/python-patterns) | Design patterns in Python | ⭐41000 |
-| 3 | [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) | Tiered project ideas beginner→advanced | ⭐82000 |
-| 4 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Largest free programming book collection | ⭐355000 |
-| 5 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12-week ML curriculum by Microsoft | ⭐72000 |
+| 2 | [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) | Tiered project ideas beginner→advanced | ⭐82000 |
+| 3 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12-week ML curriculum by Microsoft | ⭐72000 |
+| 4 | [realpython/python-guide](https://github.com/realpython/python-guide) | Best practices, packaging, deployment | ⭐28000 |
+| 5 | [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) | Everything database tools | ⭐4000 |
 
 ## Archive
 
@@ -59,7 +59,9 @@
 
 
 
-| [2026-08-11](records/2026-08-11.md) | javascript + python |
+
+| [2026-08-12](records/2026-08-12.md) | javascript + projects |
+ [2026-08-11](records/2026-08-11.md) | javascript + python |
  [2026-08-10](records/2026-08-10.md) | algorithms + ai_ml |
  [2026-08-09](records/2026-08-09.md) | algorithms + python |
  [2026-08-08](records/2026-08-08.md) | tools + algorithms |

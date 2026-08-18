@@ -1,11 +1,11 @@
-## Today's Pick: 2026-08-17
+## Today's Pick: 2026-08-18
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
 | 1 | [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | Clean code for JS | ⭐93000 |
-| 2 | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmap for every path | ⭐312000 |
-| 3 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Build your own DB, Git, bot, OS | ⭐350000 |
-| 4 | [NUKnightLab/sql-murder-mystery](https://github.com/NUKnightLab/sql-murder-mystery) | Learn SQL by solving a crime | ⭐17000 |
+| 2 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Free APIs for your next bot | ⭐337000 |
+| 3 | [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) | Python quirks explained — learn what NOT to do | ⭐36000 |
+| 4 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | Algorithms in JS with explanations | ⭐191000 |
 | 5 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12-week ML curriculum by Microsoft | ⭐72000 |
 
 ## Archive
@@ -65,7 +65,9 @@
 
 
 
-| [2026-08-17](records/2026-08-17.md) | javascript + tools |
+
+| [2026-08-18](records/2026-08-18.md) | javascript + tools |
+ [2026-08-17](records/2026-08-17.md) | javascript + tools |
  [2026-08-16](records/2026-08-16.md) | tools + javascript |
  [2026-08-15](records/2026-08-15.md) | projects + python |
  [2026-08-14](records/2026-08-14.md) | sql + algorithms |

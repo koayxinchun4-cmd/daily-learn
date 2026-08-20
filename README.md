@@ -1,12 +1,12 @@
-## Today's Pick: 2026-08-19
+## Today's Pick: 2026-08-20
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
-| 1 | [realpython/python-guide](https://github.com/realpython/python-guide) | Best practices, packaging, deployment | ⭐28000 |
-| 2 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Build real things by language | ⭐216000 |
-| 3 | [huggingface/transformers](https://github.com/huggingface/transformers) | All state-of-the-art models | ⭐145000 |
-| 4 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | Algorithms in 11 languages — animated, interactive | ⭐107000 |
-| 5 | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmap for every path | ⭐312000 |
+| 1 | [huggingface/transformers](https://github.com/huggingface/transformers) | All state-of-the-art models | ⭐145000 |
+| 2 | [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) | 33 core concepts every JS dev needs | ⭐65000 |
+| 3 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the terminal in one page | ⭐155000 |
+| 4 | [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | Day-by-day Python, from print() to APIs | ⭐44000 |
+| 5 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | Algorithms in 11 languages — animated, interactive | ⭐107000 |
 
 ## Archive
 
@@ -67,7 +67,9 @@
 
 
 
-| [2026-08-19](records/2026-08-19.md) | python + projects |
+
+| [2026-08-20](records/2026-08-20.md) | ai_ml + javascript |
+ [2026-08-19](records/2026-08-19.md) | python + projects |
  [2026-08-18](records/2026-08-18.md) | javascript + tools |
  [2026-08-17](records/2026-08-17.md) | javascript + tools |
  [2026-08-16](records/2026-08-16.md) | tools + javascript |

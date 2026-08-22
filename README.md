@@ -1,12 +1,12 @@
-## Today's Pick: 2026-08-21
+## Today's Pick: 2026-08-22
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
 | 1 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | Every algorithm implemented in Python | ⭐201000 |
-| 2 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how big systems work | ⭐293000 |
-| 3 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Free APIs for your next bot | ⭐337000 |
-| 4 | [NUKnightLab/sql-murder-mystery](https://github.com/NUKnightLab/sql-murder-mystery) | Learn SQL by solving a crime | ⭐17000 |
-| 5 | [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) | Python quirks explained — learn what NOT to do | ⭐36000 |
+| 2 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Largest free programming book collection | ⭐355000 |
+| 3 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Build real things by language | ⭐216000 |
+| 4 | [huggingface/transformers](https://github.com/huggingface/transformers) | All state-of-the-art models | ⭐145000 |
+| 5 | [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) | Everything database tools | ⭐4000 |
 
 ## Archive
 
@@ -69,7 +69,9 @@
 
 
 
-| [2026-08-21](records/2026-08-21.md) | algorithms + projects |
+
+| [2026-08-22](records/2026-08-22.md) | algorithms + tools |
+ [2026-08-21](records/2026-08-21.md) | algorithms + projects |
  [2026-08-20](records/2026-08-20.md) | ai_ml + javascript |
  [2026-08-19](records/2026-08-19.md) | python + projects |
  [2026-08-18](records/2026-08-18.md) | javascript + tools |

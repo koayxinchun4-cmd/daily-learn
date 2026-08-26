@@ -1,12 +1,12 @@
-## Today's Pick: 2026-08-25
+## Today's Pick: 2026-08-26
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
-| 1 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12-week ML curriculum by Microsoft | ⭐72000 |
-| 2 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the terminal in one page | ⭐155000 |
-| 3 | [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) | Everything database tools | ⭐4000 |
-| 4 | [realpython/python-guide](https://github.com/realpython/python-guide) | Best practices, packaging, deployment | ⭐28000 |
-| 5 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Build your own DB, Git, bot, OS | ⭐350000 |
+| 1 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Free APIs for your next bot | ⭐337000 |
+| 2 | [huggingface/transformers](https://github.com/huggingface/transformers) | All state-of-the-art models | ⭐145000 |
+| 3 | [faif/python-patterns](https://github.com/faif/python-patterns) | Design patterns in Python | ⭐41000 |
+| 4 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | Every algorithm implemented in Python | ⭐201000 |
+| 5 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how big systems work | ⭐293000 |
 
 ## Archive
 
@@ -73,7 +73,9 @@
 
 
 
-| [2026-08-25](records/2026-08-25.md) | ai_ml + tools |
+
+| [2026-08-26](records/2026-08-26.md) | tools + ai_ml |
+ [2026-08-25](records/2026-08-25.md) | ai_ml + tools |
  [2026-08-24](records/2026-08-24.md) | tools + javascript |
  [2026-08-23](records/2026-08-23.md) | javascript + tools |
  [2026-08-22](records/2026-08-22.md) | algorithms + tools |

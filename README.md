@@ -1,12 +1,12 @@
-## Today's Pick: 2026-09-05
+## Today's Pick: 2026-09-06
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
-| 1 | [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) | Python quirks explained — learn what NOT to do | ⭐36000 |
-| 2 | [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) | Everything database tools | ⭐4000 |
-| 3 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | Algorithms in 11 languages — animated, interactive | ⭐107000 |
-| 4 | [huggingface/transformers](https://github.com/huggingface/transformers) | All state-of-the-art models | ⭐145000 |
-| 5 | [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | Day-by-day JavaScript | ⭐45000 |
+| 1 | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmap for every path | ⭐312000 |
+| 2 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Build your own DB, Git, bot, OS | ⭐350000 |
+| 3 | [huggingface/transformers](https://github.com/huggingface/transformers) | All state-of-the-art models | ⭐145000 |
+| 4 | [NUKnightLab/sql-murder-mystery](https://github.com/NUKnightLab/sql-murder-mystery) | Learn SQL by solving a crime | ⭐17000 |
+| 5 | [realpython/python-guide](https://github.com/realpython/python-guide) | Best practices, packaging, deployment | ⭐28000 |
 
 ## Archive
 
@@ -84,7 +84,9 @@
 
 
 
-| [2026-09-05](records/2026-09-05.md) | python + sql |
+
+| [2026-09-06](records/2026-09-06.md) | tools + projects |
+ [2026-09-05](records/2026-09-05.md) | python + sql |
  [2026-09-04](records/2026-09-04.md) | projects + sql |
  [2026-09-03](records/2026-09-03.md) | sql + projects |
  [2026-09-02](records/2026-09-02.md) | tools + sql |

@@ -1,12 +1,12 @@
-## Today's Pick: 2026-09-09
+## Today's Pick: 2026-09-10
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
-| 1 | [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | Day-by-day Python, from print() to APIs | ⭐44000 |
-| 2 | [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) | Everything database tools | ⭐4000 |
-| 3 | [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | Day-by-day JavaScript | ⭐45000 |
+| 1 | [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) | 33 core concepts every JS dev needs | ⭐65000 |
+| 2 | [realpython/python-guide](https://github.com/realpython/python-guide) | Best practices, packaging, deployment | ⭐28000 |
+| 3 | [huggingface/transformers](https://github.com/huggingface/transformers) | All state-of-the-art models | ⭐145000 |
 | 4 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how big systems work | ⭐293000 |
-| 5 | [huggingface/transformers](https://github.com/huggingface/transformers) | All state-of-the-art models | ⭐145000 |
+| 5 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Largest free programming book collection | ⭐355000 |
 
 ## Archive
 
@@ -88,7 +88,9 @@
 
 
 
-| [2026-09-09](records/2026-09-09.md) | python + sql |
+
+| [2026-09-10](records/2026-09-10.md) | javascript + python |
+ [2026-09-09](records/2026-09-09.md) | python + sql |
  [2026-09-08](records/2026-09-08.md) | projects + ai_ml |
  [2026-09-07](records/2026-09-07.md) | projects + tools |
  [2026-09-06](records/2026-09-06.md) | tools + projects |

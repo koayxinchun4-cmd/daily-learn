@@ -1,12 +1,12 @@
-## Today's Pick: 2026-09-10
+## Today's Pick: 2026-09-11
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
-| 1 | [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) | 33 core concepts every JS dev needs | ⭐65000 |
-| 2 | [realpython/python-guide](https://github.com/realpython/python-guide) | Best practices, packaging, deployment | ⭐28000 |
-| 3 | [huggingface/transformers](https://github.com/huggingface/transformers) | All state-of-the-art models | ⭐145000 |
-| 4 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how big systems work | ⭐293000 |
-| 5 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Largest free programming book collection | ⭐355000 |
+| 1 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12-week ML curriculum by Microsoft | ⭐72000 |
+| 2 | [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) | Everything database tools | ⭐4000 |
+| 3 | [realpython/python-guide](https://github.com/realpython/python-guide) | Best practices, packaging, deployment | ⭐28000 |
+| 4 | [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) | Tiered project ideas beginner→advanced | ⭐82000 |
+| 5 | [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) | 33 core concepts every JS dev needs | ⭐65000 |
 
 ## Archive
 
@@ -89,7 +89,9 @@
 
 
 
-| [2026-09-10](records/2026-09-10.md) | javascript + python |
+
+| [2026-09-11](records/2026-09-11.md) | ai_ml + sql |
+ [2026-09-10](records/2026-09-10.md) | javascript + python |
  [2026-09-09](records/2026-09-09.md) | python + sql |
  [2026-09-08](records/2026-09-08.md) | projects + ai_ml |
  [2026-09-07](records/2026-09-07.md) | projects + tools |

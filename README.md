@@ -1,12 +1,12 @@
-## Today's Pick: 2026-09-12
+## Today's Pick: 2026-09-13
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
-| 1 | [huggingface/transformers](https://github.com/huggingface/transformers) | All state-of-the-art models | ⭐145000 |
-| 2 | [faif/python-patterns](https://github.com/faif/python-patterns) | Design patterns in Python | ⭐41000 |
-| 3 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Largest free programming book collection | ⭐355000 |
-| 4 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | Every algorithm implemented in Python | ⭐201000 |
-| 5 | [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) | Everything database tools | ⭐4000 |
+| 1 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12-week ML curriculum by Microsoft | ⭐72000 |
+| 2 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | Every algorithm implemented in Python | ⭐201000 |
+| 3 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how big systems work | ⭐293000 |
+| 4 | [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | Clean code for JS | ⭐93000 |
+| 5 | [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | Day-by-day Python, from print() to APIs | ⭐44000 |
 
 ## Archive
 
@@ -91,7 +91,9 @@
 
 
 
-| [2026-09-12](records/2026-09-12.md) | ai_ml + python |
+
+| [2026-09-13](records/2026-09-13.md) | ai_ml + algorithms |
+ [2026-09-12](records/2026-09-12.md) | ai_ml + python |
  [2026-09-11](records/2026-09-11.md) | ai_ml + sql |
  [2026-09-10](records/2026-09-10.md) | javascript + python |
  [2026-09-09](records/2026-09-09.md) | python + sql |

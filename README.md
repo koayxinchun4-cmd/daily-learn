@@ -1,12 +1,12 @@
-## Today's Pick: 2026-09-13
+## Today's Pick: 2026-09-14
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
 | 1 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12-week ML curriculum by Microsoft | ⭐72000 |
-| 2 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | Every algorithm implemented in Python | ⭐201000 |
-| 3 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how big systems work | ⭐293000 |
-| 4 | [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | Clean code for JS | ⭐93000 |
-| 5 | [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | Day-by-day Python, from print() to APIs | ⭐44000 |
+| 2 | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmap for every path | ⭐312000 |
+| 3 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | Algorithms in 11 languages — animated, interactive | ⭐107000 |
+| 4 | [NUKnightLab/sql-murder-mystery](https://github.com/NUKnightLab/sql-murder-mystery) | Learn SQL by solving a crime | ⭐17000 |
+| 5 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how big systems work | ⭐293000 |
 
 ## Archive
 
@@ -92,7 +92,9 @@
 
 
 
-| [2026-09-13](records/2026-09-13.md) | ai_ml + algorithms |
+
+| [2026-09-14](records/2026-09-14.md) | ai_ml + tools |
+ [2026-09-13](records/2026-09-13.md) | ai_ml + algorithms |
  [2026-09-12](records/2026-09-12.md) | ai_ml + python |
  [2026-09-11](records/2026-09-11.md) | ai_ml + sql |
  [2026-09-10](records/2026-09-10.md) | javascript + python |

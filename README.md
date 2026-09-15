@@ -1,12 +1,12 @@
-## Today's Pick: 2026-09-14
+## Today's Pick: 2026-09-15
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
-| 1 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12-week ML curriculum by Microsoft | ⭐72000 |
-| 2 | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmap for every path | ⭐312000 |
-| 3 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | Algorithms in 11 languages — animated, interactive | ⭐107000 |
-| 4 | [NUKnightLab/sql-murder-mystery](https://github.com/NUKnightLab/sql-murder-mystery) | Learn SQL by solving a crime | ⭐17000 |
-| 5 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how big systems work | ⭐293000 |
+| 1 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | Algorithms in 11 languages — animated, interactive | ⭐107000 |
+| 2 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Largest free programming book collection | ⭐355000 |
+| 3 | [NUKnightLab/sql-murder-mystery](https://github.com/NUKnightLab/sql-murder-mystery) | Learn SQL by solving a crime | ⭐17000 |
+| 4 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Build your own DB, Git, bot, OS | ⭐350000 |
+| 5 | [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | Day-by-day JavaScript | ⭐45000 |
 
 ## Archive
 
@@ -93,7 +93,9 @@
 
 
 
-| [2026-09-14](records/2026-09-14.md) | ai_ml + tools |
+
+| [2026-09-15](records/2026-09-15.md) | algorithms + tools |
+ [2026-09-14](records/2026-09-14.md) | ai_ml + tools |
  [2026-09-13](records/2026-09-13.md) | ai_ml + algorithms |
  [2026-09-12](records/2026-09-12.md) | ai_ml + python |
  [2026-09-11](records/2026-09-11.md) | ai_ml + sql |

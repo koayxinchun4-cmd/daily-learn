@@ -1,12 +1,12 @@
-## Today's Pick: 2026-09-19
+## Today's Pick: 2026-09-20
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
-| 1 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12-week ML curriculum by Microsoft | ⭐72000 |
-| 2 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Build real things by language | ⭐216000 |
-| 3 | [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) | Everything database tools | ⭐4000 |
-| 4 | [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | Day-by-day JavaScript | ⭐45000 |
-| 5 | [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | Day-by-day Python, from print() to APIs | ⭐44000 |
+| 1 | [NUKnightLab/sql-murder-mystery](https://github.com/NUKnightLab/sql-murder-mystery) | Learn SQL by solving a crime | ⭐17000 |
+| 2 | [huggingface/transformers](https://github.com/huggingface/transformers) | All state-of-the-art models | ⭐145000 |
+| 3 | [realpython/python-guide](https://github.com/realpython/python-guide) | Best practices, packaging, deployment | ⭐28000 |
+| 4 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | Every algorithm implemented in Python | ⭐201000 |
+| 5 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Free APIs for your next bot | ⭐337000 |
 
 ## Archive
 
@@ -98,7 +98,9 @@
 
 
 
-| [2026-09-19](records/2026-09-19.md) | ai_ml + projects |
+
+| [2026-09-20](records/2026-09-20.md) | sql + ai_ml |
+ [2026-09-19](records/2026-09-19.md) | ai_ml + projects |
  [2026-09-18](records/2026-09-18.md) | javascript + ai_ml |
  [2026-09-17](records/2026-09-17.md) | projects + javascript |
  [2026-09-16](records/2026-09-16.md) | python + sql |

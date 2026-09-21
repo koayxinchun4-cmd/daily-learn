@@ -1,12 +1,12 @@
-## Today's Pick: 2026-09-20
+## Today's Pick: 2026-09-21
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
-| 1 | [NUKnightLab/sql-murder-mystery](https://github.com/NUKnightLab/sql-murder-mystery) | Learn SQL by solving a crime | ⭐17000 |
-| 2 | [huggingface/transformers](https://github.com/huggingface/transformers) | All state-of-the-art models | ⭐145000 |
-| 3 | [realpython/python-guide](https://github.com/realpython/python-guide) | Best practices, packaging, deployment | ⭐28000 |
-| 4 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | Every algorithm implemented in Python | ⭐201000 |
-| 5 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Free APIs for your next bot | ⭐337000 |
+| 1 | [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) | Tiered project ideas beginner→advanced | ⭐82000 |
+| 2 | [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) | 33 core concepts every JS dev needs | ⭐65000 |
+| 3 | [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) | Python quirks explained — learn what NOT to do | ⭐36000 |
+| 4 | [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) | Everything database tools | ⭐4000 |
+| 5 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | Algorithms in 11 languages — animated, interactive | ⭐107000 |
 
 ## Archive
 
@@ -99,7 +99,9 @@
 
 
 
-| [2026-09-20](records/2026-09-20.md) | sql + ai_ml |
+
+| [2026-09-21](records/2026-09-21.md) | projects + javascript |
+ [2026-09-20](records/2026-09-20.md) | sql + ai_ml |
  [2026-09-19](records/2026-09-19.md) | ai_ml + projects |
  [2026-09-18](records/2026-09-18.md) | javascript + ai_ml |
  [2026-09-17](records/2026-09-17.md) | projects + javascript |

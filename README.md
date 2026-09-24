@@ -1,11 +1,11 @@
-## Today's Pick: 2026-09-23
+## Today's Pick: 2026-09-24
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
-| 1 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | Algorithms in JS with explanations | ⭐191000 |
-| 2 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how big systems work | ⭐293000 |
-| 3 | [huggingface/transformers](https://github.com/huggingface/transformers) | All state-of-the-art models | ⭐145000 |
-| 4 | [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) | Everything database tools | ⭐4000 |
+| 1 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Build your own DB, Git, bot, OS | ⭐350000 |
+| 2 | [huggingface/transformers](https://github.com/huggingface/transformers) | All state-of-the-art models | ⭐145000 |
+| 3 | [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | Deep JS concepts, free book series | ⭐182000 |
+| 4 | [faif/python-patterns](https://github.com/faif/python-patterns) | Design patterns in Python | ⭐41000 |
 | 5 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the terminal in one page | ⭐155000 |
 
 ## Archive
@@ -102,7 +102,9 @@
 
 
 
-| [2026-09-23](records/2026-09-23.md) | algorithms + projects |
+
+| [2026-09-24](records/2026-09-24.md) | projects + ai_ml |
+ [2026-09-23](records/2026-09-23.md) | algorithms + projects |
  [2026-09-22](records/2026-09-22.md) | sql + tools |
  [2026-09-21](records/2026-09-21.md) | projects + javascript |
  [2026-09-20](records/2026-09-20.md) | sql + ai_ml |

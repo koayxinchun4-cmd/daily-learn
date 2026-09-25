@@ -1,12 +1,12 @@
-## Today's Pick: 2026-09-24
+## Today's Pick: 2026-09-25
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
-| 1 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Build your own DB, Git, bot, OS | ⭐350000 |
-| 2 | [huggingface/transformers](https://github.com/huggingface/transformers) | All state-of-the-art models | ⭐145000 |
-| 3 | [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | Deep JS concepts, free book series | ⭐182000 |
-| 4 | [faif/python-patterns](https://github.com/faif/python-patterns) | Design patterns in Python | ⭐41000 |
-| 5 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the terminal in one page | ⭐155000 |
+| 1 | [realpython/python-guide](https://github.com/realpython/python-guide) | Best practices, packaging, deployment | ⭐28000 |
+| 2 | [NUKnightLab/sql-murder-mystery](https://github.com/NUKnightLab/sql-murder-mystery) | Learn SQL by solving a crime | ⭐17000 |
+| 3 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how big systems work | ⭐293000 |
+| 4 | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmap for every path | ⭐312000 |
+| 5 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12-week ML curriculum by Microsoft | ⭐72000 |
 
 ## Archive
 
@@ -103,7 +103,9 @@
 
 
 
-| [2026-09-24](records/2026-09-24.md) | projects + ai_ml |
+
+| [2026-09-25](records/2026-09-25.md) | python + sql |
+ [2026-09-24](records/2026-09-24.md) | projects + ai_ml |
  [2026-09-23](records/2026-09-23.md) | algorithms + projects |
  [2026-09-22](records/2026-09-22.md) | sql + tools |
  [2026-09-21](records/2026-09-21.md) | projects + javascript |

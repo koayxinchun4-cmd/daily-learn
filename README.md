@@ -1,12 +1,12 @@
-## Today's Pick: 2026-09-26
+## Today's Pick: 2026-09-27
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
 | 1 | [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | Day-by-day JavaScript | ⭐45000 |
-| 2 | [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) | Everything database tools | ⭐4000 |
-| 3 | [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | Day-by-day Python, from print() to APIs | ⭐44000 |
-| 4 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Free APIs for your next bot | ⭐337000 |
-| 5 | [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) | Tiered project ideas beginner→advanced | ⭐82000 |
+| 2 | [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) | Tiered project ideas beginner→advanced | ⭐82000 |
+| 3 | [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) | Everything database tools | ⭐4000 |
+| 4 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the terminal in one page | ⭐155000 |
+| 5 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | Every algorithm implemented in Python | ⭐201000 |
 
 ## Archive
 
@@ -105,7 +105,9 @@
 
 
 
-| [2026-09-26](records/2026-09-26.md) | javascript + sql |
+
+| [2026-09-27](records/2026-09-27.md) | javascript + projects |
+ [2026-09-26](records/2026-09-26.md) | javascript + sql |
  [2026-09-25](records/2026-09-25.md) | python + sql |
  [2026-09-24](records/2026-09-24.md) | projects + ai_ml |
  [2026-09-23](records/2026-09-23.md) | algorithms + projects |

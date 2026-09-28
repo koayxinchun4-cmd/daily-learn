@@ -1,12 +1,12 @@
-## Today's Pick: 2026-09-27
+## Today's Pick: 2026-09-28
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
-| 1 | [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | Day-by-day JavaScript | ⭐45000 |
-| 2 | [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) | Tiered project ideas beginner→advanced | ⭐82000 |
-| 3 | [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) | Everything database tools | ⭐4000 |
-| 4 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the terminal in one page | ⭐155000 |
-| 5 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | Every algorithm implemented in Python | ⭐201000 |
+| 1 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12-week ML curriculum by Microsoft | ⭐72000 |
+| 2 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Free APIs for your next bot | ⭐337000 |
+| 3 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Build real things by language | ⭐216000 |
+| 4 | [faif/python-patterns](https://github.com/faif/python-patterns) | Design patterns in Python | ⭐41000 |
+| 5 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | Algorithms in JS with explanations | ⭐191000 |
 
 ## Archive
 
@@ -106,7 +106,9 @@
 
 
 
-| [2026-09-27](records/2026-09-27.md) | javascript + projects |
+
+| [2026-09-28](records/2026-09-28.md) | ai_ml + tools |
+ [2026-09-27](records/2026-09-27.md) | javascript + projects |
  [2026-09-26](records/2026-09-26.md) | javascript + sql |
  [2026-09-25](records/2026-09-25.md) | python + sql |
  [2026-09-24](records/2026-09-24.md) | projects + ai_ml |

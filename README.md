@@ -1,12 +1,12 @@
-## Today's Pick: 2026-10-09
+## Today's Pick: 2026-10-10
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
-| 1 | [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | Clean code for JS | ⭐93000 |
-| 2 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12-week ML curriculum by Microsoft | ⭐72000 |
-| 3 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | Every algorithm implemented in Python | ⭐201000 |
+| 1 | [huggingface/transformers](https://github.com/huggingface/transformers) | All state-of-the-art models | ⭐145000 |
+| 2 | [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | Deep JS concepts, free book series | ⭐182000 |
+| 3 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Build your own DB, Git, bot, OS | ⭐350000 |
 | 4 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Free APIs for your next bot | ⭐337000 |
-| 5 | [faif/python-patterns](https://github.com/faif/python-patterns) | Design patterns in Python | ⭐41000 |
+| 5 | [NUKnightLab/sql-murder-mystery](https://github.com/NUKnightLab/sql-murder-mystery) | Learn SQL by solving a crime | ⭐17000 |
 
 ## Archive
 
@@ -118,7 +118,9 @@
 
 
 
-| [2026-10-09](records/2026-10-09.md) | javascript + ai_ml |
+
+| [2026-10-10](records/2026-10-10.md) | ai_ml + javascript |
+ [2026-10-09](records/2026-10-09.md) | javascript + ai_ml |
  [2026-10-08](records/2026-10-08.md) | python + tools |
  [2026-10-07](records/2026-10-07.md) | javascript + sql |
  [2026-10-06](records/2026-10-06.md) | sql + projects |

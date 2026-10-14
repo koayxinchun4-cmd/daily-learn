@@ -1,12 +1,12 @@
-## Today's Pick: 2026-10-13
+## Today's Pick: 2026-10-14
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
-| 1 | [realpython/python-guide](https://github.com/realpython/python-guide) | Best practices, packaging, deployment | ⭐28000 |
-| 2 | [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) | Everything database tools | ⭐4000 |
-| 3 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Free APIs for your next bot | ⭐337000 |
-| 4 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | Algorithms in 11 languages — animated, interactive | ⭐107000 |
-| 5 | [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | Day-by-day JavaScript | ⭐45000 |
+| 1 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how big systems work | ⭐293000 |
+| 2 | [realpython/python-guide](https://github.com/realpython/python-guide) | Best practices, packaging, deployment | ⭐28000 |
+| 3 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | Every algorithm implemented in Python | ⭐201000 |
+| 4 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Free APIs for your next bot | ⭐337000 |
+| 5 | [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) | Everything database tools | ⭐4000 |
 
 ## Archive
 
@@ -122,7 +122,9 @@
 
 
 
-| [2026-10-13](records/2026-10-13.md) | python + sql |
+
+| [2026-10-14](records/2026-10-14.md) | projects + python |
+ [2026-10-13](records/2026-10-13.md) | python + sql |
  [2026-10-12](records/2026-10-12.md) | javascript + projects |
  [2026-10-11](records/2026-10-11.md) | sql + projects |
  [2026-10-10](records/2026-10-10.md) | ai_ml + javascript |

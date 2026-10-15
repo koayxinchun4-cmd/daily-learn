@@ -1,11 +1,11 @@
-## Today's Pick: 2026-10-14
+## Today's Pick: 2026-10-15
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
-| 1 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how big systems work | ⭐293000 |
-| 2 | [realpython/python-guide](https://github.com/realpython/python-guide) | Best practices, packaging, deployment | ⭐28000 |
-| 3 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | Every algorithm implemented in Python | ⭐201000 |
-| 4 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Free APIs for your next bot | ⭐337000 |
+| 1 | [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | Day-by-day Python, from print() to APIs | ⭐44000 |
+| 2 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | Algorithms in JS with explanations | ⭐191000 |
+| 3 | [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) | 33 core concepts every JS dev needs | ⭐65000 |
+| 4 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the terminal in one page | ⭐155000 |
 | 5 | [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) | Everything database tools | ⭐4000 |
 
 ## Archive
@@ -123,7 +123,9 @@
 
 
 
-| [2026-10-14](records/2026-10-14.md) | projects + python |
+
+| [2026-10-15](records/2026-10-15.md) | python + algorithms |
+ [2026-10-14](records/2026-10-14.md) | projects + python |
  [2026-10-13](records/2026-10-13.md) | python + sql |
  [2026-10-12](records/2026-10-12.md) | javascript + projects |
  [2026-10-11](records/2026-10-11.md) | sql + projects |

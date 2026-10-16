@@ -1,12 +1,12 @@
-## Today's Pick: 2026-10-15
+## Today's Pick: 2026-10-16
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
-| 1 | [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | Day-by-day Python, from print() to APIs | ⭐44000 |
-| 2 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | Algorithms in JS with explanations | ⭐191000 |
-| 3 | [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) | 33 core concepts every JS dev needs | ⭐65000 |
-| 4 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the terminal in one page | ⭐155000 |
-| 5 | [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) | Everything database tools | ⭐4000 |
+| 1 | [huggingface/transformers](https://github.com/huggingface/transformers) | All state-of-the-art models | ⭐145000 |
+| 2 | [NUKnightLab/sql-murder-mystery](https://github.com/NUKnightLab/sql-murder-mystery) | Learn SQL by solving a crime | ⭐17000 |
+| 3 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | Algorithms in 11 languages — animated, interactive | ⭐107000 |
+| 4 | [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) | 33 core concepts every JS dev needs | ⭐65000 |
+| 5 | [faif/python-patterns](https://github.com/faif/python-patterns) | Design patterns in Python | ⭐41000 |
 
 ## Archive
 
@@ -124,7 +124,9 @@
 
 
 
-| [2026-10-15](records/2026-10-15.md) | python + algorithms |
+
+| [2026-10-16](records/2026-10-16.md) | ai_ml + sql |
+ [2026-10-15](records/2026-10-15.md) | python + algorithms |
  [2026-10-14](records/2026-10-14.md) | projects + python |
  [2026-10-13](records/2026-10-13.md) | python + sql |
  [2026-10-12](records/2026-10-12.md) | javascript + projects |

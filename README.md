@@ -1,12 +1,12 @@
-## Today's Pick: 2026-10-18
+## Today's Pick: 2026-10-19
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
-| 1 | [NUKnightLab/sql-murder-mystery](https://github.com/NUKnightLab/sql-murder-mystery) | Learn SQL by solving a crime | ⭐17000 |
-| 2 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | Algorithms in 11 languages — animated, interactive | ⭐107000 |
-| 3 | [huggingface/transformers](https://github.com/huggingface/transformers) | All state-of-the-art models | ⭐145000 |
-| 4 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the terminal in one page | ⭐155000 |
-| 5 | [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) | 33 core concepts every JS dev needs | ⭐65000 |
+| 1 | [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) | Python quirks explained — learn what NOT to do | ⭐36000 |
+| 2 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Build your own DB, Git, bot, OS | ⭐350000 |
+| 3 | [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) | Everything database tools | ⭐4000 |
+| 4 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Free APIs for your next bot | ⭐337000 |
+| 5 | [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | Clean code for JS | ⭐93000 |
 
 ## Archive
 
@@ -127,7 +127,9 @@
 
 
 
-| [2026-10-18](records/2026-10-18.md) | sql + algorithms |
+
+| [2026-10-19](records/2026-10-19.md) | python + projects |
+ [2026-10-18](records/2026-10-18.md) | sql + algorithms |
  [2026-10-17](records/2026-10-17.md) | python + ai_ml |
  [2026-10-16](records/2026-10-16.md) | ai_ml + sql |
  [2026-10-15](records/2026-10-15.md) | python + algorithms |

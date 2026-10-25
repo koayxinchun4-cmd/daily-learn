@@ -1,12 +1,12 @@
-## Today's Pick: 2026-10-24
+## Today's Pick: 2026-10-25
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
-| 1 | [huggingface/transformers](https://github.com/huggingface/transformers) | All state-of-the-art models | ⭐145000 |
-| 2 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the terminal in one page | ⭐155000 |
-| 3 | [NUKnightLab/sql-murder-mystery](https://github.com/NUKnightLab/sql-murder-mystery) | Learn SQL by solving a crime | ⭐17000 |
-| 4 | [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | Deep JS concepts, free book series | ⭐182000 |
-| 5 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | Algorithms in JS with explanations | ⭐191000 |
+| 1 | [NUKnightLab/sql-murder-mystery](https://github.com/NUKnightLab/sql-murder-mystery) | Learn SQL by solving a crime | ⭐17000 |
+| 2 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | Every algorithm implemented in Python | ⭐201000 |
+| 3 | [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) | Python quirks explained — learn what NOT to do | ⭐36000 |
+| 4 | [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | Day-by-day JavaScript | ⭐45000 |
+| 5 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the terminal in one page | ⭐155000 |
 
 ## Archive
 
@@ -133,7 +133,9 @@
 
 
 
-| [2026-10-24](records/2026-10-24.md) | ai_ml + tools |
+
+| [2026-10-25](records/2026-10-25.md) | sql + algorithms |
+ [2026-10-24](records/2026-10-24.md) | ai_ml + tools |
  [2026-10-23](records/2026-10-23.md) | javascript + sql |
  [2026-10-22](records/2026-10-22.md) | python + sql |
  [2026-10-21](records/2026-10-21.md) | algorithms + projects |

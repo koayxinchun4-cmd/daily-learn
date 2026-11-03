@@ -1,12 +1,12 @@
-## Today's Pick: 2026-11-02
+## Today's Pick: 2026-11-03
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
-| 1 | [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) | 33 core concepts every JS dev needs | ⭐65000 |
-| 2 | [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) | Tiered project ideas beginner→advanced | ⭐82000 |
-| 3 | [huggingface/transformers](https://github.com/huggingface/transformers) | All state-of-the-art models | ⭐145000 |
-| 4 | [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | Day-by-day Python, from print() to APIs | ⭐44000 |
-| 5 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the terminal in one page | ⭐155000 |
+| 1 | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmap for every path | ⭐312000 |
+| 2 | [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) | 33 core concepts every JS dev needs | ⭐65000 |
+| 3 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Build real things by language | ⭐216000 |
+| 4 | [NUKnightLab/sql-murder-mystery](https://github.com/NUKnightLab/sql-murder-mystery) | Learn SQL by solving a crime | ⭐17000 |
+| 5 | [realpython/python-guide](https://github.com/realpython/python-guide) | Best practices, packaging, deployment | ⭐28000 |
 
 ## Archive
 
@@ -142,7 +142,9 @@
 
 
 
-| [2026-11-02](records/2026-11-02.md) | javascript + projects |
+
+| [2026-11-03](records/2026-11-03.md) | tools + javascript |
+ [2026-11-02](records/2026-11-02.md) | javascript + projects |
  [2026-11-01](records/2026-11-01.md) | projects + tools |
  [2026-10-31](records/2026-10-31.md) | sql + projects |
  [2026-10-30](records/2026-10-30.md) | python + algorithms |

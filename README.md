@@ -1,11 +1,11 @@
-## Today's Pick: 2026-11-04
+## Today's Pick: 2026-11-05
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
-| 1 | [huggingface/transformers](https://github.com/huggingface/transformers) | All state-of-the-art models | ⭐145000 |
-| 2 | [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | Day-by-day JavaScript | ⭐45000 |
-| 3 | [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) | Tiered project ideas beginner→advanced | ⭐82000 |
-| 4 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the terminal in one page | ⭐155000 |
+| 1 | [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) | Everything database tools | ⭐4000 |
+| 2 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Free APIs for your next bot | ⭐337000 |
+| 3 | [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | Day-by-day JavaScript | ⭐45000 |
+| 4 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Build your own DB, Git, bot, OS | ⭐350000 |
 | 5 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | Algorithms in JS with explanations | ⭐191000 |
 
 ## Archive
@@ -144,7 +144,9 @@
 
 
 
-| [2026-11-04](records/2026-11-04.md) | ai_ml + javascript |
+
+| [2026-11-05](records/2026-11-05.md) | sql + tools |
+ [2026-11-04](records/2026-11-04.md) | ai_ml + javascript |
  [2026-11-03](records/2026-11-03.md) | tools + javascript |
  [2026-11-02](records/2026-11-02.md) | javascript + projects |
  [2026-11-01](records/2026-11-01.md) | projects + tools |

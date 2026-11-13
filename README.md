@@ -1,12 +1,12 @@
-## Today's Pick: 2026-11-12
+## Today's Pick: 2026-11-13
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
-| 1 | [NUKnightLab/sql-murder-mystery](https://github.com/NUKnightLab/sql-murder-mystery) | Learn SQL by solving a crime | ⭐17000 |
-| 2 | [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) | 33 core concepts every JS dev needs | ⭐65000 |
-| 3 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12-week ML curriculum by Microsoft | ⭐72000 |
-| 4 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | Every algorithm implemented in Python | ⭐201000 |
-| 5 | [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) | Tiered project ideas beginner→advanced | ⭐82000 |
+| 1 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how big systems work | ⭐293000 |
+| 2 | [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | Clean code for JS | ⭐93000 |
+| 3 | [faif/python-patterns](https://github.com/faif/python-patterns) | Design patterns in Python | ⭐41000 |
+| 4 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | Algorithms in 11 languages — animated, interactive | ⭐107000 |
+| 5 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12-week ML curriculum by Microsoft | ⭐72000 |
 
 ## Archive
 
@@ -152,7 +152,9 @@
 
 
 
-| [2026-11-12](records/2026-11-12.md) | sql + javascript |
+
+| [2026-11-13](records/2026-11-13.md) | projects + javascript |
+ [2026-11-12](records/2026-11-12.md) | sql + javascript |
  [2026-11-11](records/2026-11-11.md) | python + sql |
  [2026-11-10](records/2026-11-10.md) | sql + tools |
  [2026-11-09](records/2026-11-09.md) | python + projects |

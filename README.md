@@ -1,12 +1,12 @@
-## Today's Pick: 2026-11-16
+## Today's Pick: 2026-11-17
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
-| 1 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | Algorithms in JS with explanations | ⭐191000 |
-| 2 | [huggingface/transformers](https://github.com/huggingface/transformers) | All state-of-the-art models | ⭐145000 |
-| 3 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how big systems work | ⭐293000 |
+| 1 | [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) | Everything database tools | ⭐4000 |
+| 2 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12-week ML curriculum by Microsoft | ⭐72000 |
+| 3 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Build real things by language | ⭐216000 |
 | 4 | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmap for every path | ⭐312000 |
-| 5 | [NUKnightLab/sql-murder-mystery](https://github.com/NUKnightLab/sql-murder-mystery) | Learn SQL by solving a crime | ⭐17000 |
+| 5 | [faif/python-patterns](https://github.com/faif/python-patterns) | Design patterns in Python | ⭐41000 |
 
 ## Archive
 
@@ -156,7 +156,9 @@
 
 
 
-| [2026-11-16](records/2026-11-16.md) | algorithms + ai_ml |
+
+| [2026-11-17](records/2026-11-17.md) | sql + ai_ml |
+ [2026-11-16](records/2026-11-16.md) | algorithms + ai_ml |
  [2026-11-15](records/2026-11-15.md) | projects + python |
  [2026-11-14](records/2026-11-14.md) | javascript + projects |
  [2026-11-13](records/2026-11-13.md) | projects + javascript |

@@ -1,12 +1,12 @@
-## Today's Pick: 2026-11-17
+## Today's Pick: 2026-11-18
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
-| 1 | [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) | Everything database tools | ⭐4000 |
-| 2 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12-week ML curriculum by Microsoft | ⭐72000 |
-| 3 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Build real things by language | ⭐216000 |
-| 4 | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmap for every path | ⭐312000 |
-| 5 | [faif/python-patterns](https://github.com/faif/python-patterns) | Design patterns in Python | ⭐41000 |
+| 1 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the terminal in one page | ⭐155000 |
+| 2 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how big systems work | ⭐293000 |
+| 3 | [realpython/python-guide](https://github.com/realpython/python-guide) | Best practices, packaging, deployment | ⭐28000 |
+| 4 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | Algorithms in 11 languages — animated, interactive | ⭐107000 |
+| 5 | [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | Deep JS concepts, free book series | ⭐182000 |
 
 ## Archive
 
@@ -157,7 +157,9 @@
 
 
 
-| [2026-11-17](records/2026-11-17.md) | sql + ai_ml |
+
+| [2026-11-18](records/2026-11-18.md) | tools + projects |
+ [2026-11-17](records/2026-11-17.md) | sql + ai_ml |
  [2026-11-16](records/2026-11-16.md) | algorithms + ai_ml |
  [2026-11-15](records/2026-11-15.md) | projects + python |
  [2026-11-14](records/2026-11-14.md) | javascript + projects |

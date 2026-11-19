@@ -1,12 +1,12 @@
-## Today's Pick: 2026-11-18
+## Today's Pick: 2026-11-19
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
-| 1 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the terminal in one page | ⭐155000 |
-| 2 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how big systems work | ⭐293000 |
-| 3 | [realpython/python-guide](https://github.com/realpython/python-guide) | Best practices, packaging, deployment | ⭐28000 |
-| 4 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | Algorithms in 11 languages — animated, interactive | ⭐107000 |
-| 5 | [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | Deep JS concepts, free book series | ⭐182000 |
+| 1 | [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) | Python quirks explained — learn what NOT to do | ⭐36000 |
+| 2 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the terminal in one page | ⭐155000 |
+| 3 | [huggingface/transformers](https://github.com/huggingface/transformers) | All state-of-the-art models | ⭐145000 |
+| 4 | [NUKnightLab/sql-murder-mystery](https://github.com/NUKnightLab/sql-murder-mystery) | Learn SQL by solving a crime | ⭐17000 |
+| 5 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | Algorithms in JS with explanations | ⭐191000 |
 
 ## Archive
 
@@ -158,7 +158,9 @@
 
 
 
-| [2026-11-18](records/2026-11-18.md) | tools + projects |
+
+| [2026-11-19](records/2026-11-19.md) | python + tools |
+ [2026-11-18](records/2026-11-18.md) | tools + projects |
  [2026-11-17](records/2026-11-17.md) | sql + ai_ml |
  [2026-11-16](records/2026-11-16.md) | algorithms + ai_ml |
  [2026-11-15](records/2026-11-15.md) | projects + python |

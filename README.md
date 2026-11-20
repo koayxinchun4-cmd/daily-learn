@@ -1,12 +1,12 @@
-## Today's Pick: 2026-11-19
+## Today's Pick: 2026-11-20
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
-| 1 | [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) | Python quirks explained — learn what NOT to do | ⭐36000 |
-| 2 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the terminal in one page | ⭐155000 |
-| 3 | [huggingface/transformers](https://github.com/huggingface/transformers) | All state-of-the-art models | ⭐145000 |
-| 4 | [NUKnightLab/sql-murder-mystery](https://github.com/NUKnightLab/sql-murder-mystery) | Learn SQL by solving a crime | ⭐17000 |
-| 5 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | Algorithms in JS with explanations | ⭐191000 |
+| 1 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Build your own DB, Git, bot, OS | ⭐350000 |
+| 2 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | Every algorithm implemented in Python | ⭐201000 |
+| 3 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12-week ML curriculum by Microsoft | ⭐72000 |
+| 4 | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmap for every path | ⭐312000 |
+| 5 | [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | Clean code for JS | ⭐93000 |
 
 ## Archive
 
@@ -159,7 +159,9 @@
 
 
 
-| [2026-11-19](records/2026-11-19.md) | python + tools |
+
+| [2026-11-20](records/2026-11-20.md) | projects + algorithms |
+ [2026-11-19](records/2026-11-19.md) | python + tools |
  [2026-11-18](records/2026-11-18.md) | tools + projects |
  [2026-11-17](records/2026-11-17.md) | sql + ai_ml |
  [2026-11-16](records/2026-11-16.md) | algorithms + ai_ml |

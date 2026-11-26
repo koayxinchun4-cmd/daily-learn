@@ -1,12 +1,12 @@
-## Today's Pick: 2026-11-25
+## Today's Pick: 2026-11-26
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
-| 1 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12-week ML curriculum by Microsoft | ⭐72000 |
-| 2 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Build your own DB, Git, bot, OS | ⭐350000 |
-| 3 | [NUKnightLab/sql-murder-mystery](https://github.com/NUKnightLab/sql-murder-mystery) | Learn SQL by solving a crime | ⭐17000 |
-| 4 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Largest free programming book collection | ⭐355000 |
-| 5 | [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) | 33 core concepts every JS dev needs | ⭐65000 |
+| 1 | [NUKnightLab/sql-murder-mystery](https://github.com/NUKnightLab/sql-murder-mystery) | Learn SQL by solving a crime | ⭐17000 |
+| 2 | [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) | Python quirks explained — learn what NOT to do | ⭐36000 |
+| 3 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12-week ML curriculum by Microsoft | ⭐72000 |
+| 4 | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmap for every path | ⭐312000 |
+| 5 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Build your own DB, Git, bot, OS | ⭐350000 |
 
 ## Archive
 
@@ -165,7 +165,9 @@
 
 
 
-| [2026-11-25](records/2026-11-25.md) | ai_ml + projects |
+
+| [2026-11-26](records/2026-11-26.md) | sql + python |
+ [2026-11-25](records/2026-11-25.md) | ai_ml + projects |
  [2026-11-24](records/2026-11-24.md) | projects + python |
  [2026-11-23](records/2026-11-23.md) | python + projects |
  [2026-11-22](records/2026-11-22.md) | ai_ml + projects |

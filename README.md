@@ -1,12 +1,12 @@
-## Today's Pick: 2026-11-26
+## Today's Pick: 2026-11-27
 
 | # | Repo | Why It Matches You | Stars |
 |---|------|-------------------|-------|
-| 1 | [NUKnightLab/sql-murder-mystery](https://github.com/NUKnightLab/sql-murder-mystery) | Learn SQL by solving a crime | ⭐17000 |
-| 2 | [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) | Python quirks explained — learn what NOT to do | ⭐36000 |
-| 3 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12-week ML curriculum by Microsoft | ⭐72000 |
-| 4 | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmap for every path | ⭐312000 |
-| 5 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Build your own DB, Git, bot, OS | ⭐350000 |
+| 1 | [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | Clean code for JS | ⭐93000 |
+| 2 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Free APIs for your next bot | ⭐337000 |
+| 3 | [NUKnightLab/sql-murder-mystery](https://github.com/NUKnightLab/sql-murder-mystery) | Learn SQL by solving a crime | ⭐17000 |
+| 4 | [huggingface/transformers](https://github.com/huggingface/transformers) | All state-of-the-art models | ⭐145000 |
+| 5 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | Algorithms in JS with explanations | ⭐191000 |
 
 ## Archive
 
@@ -166,7 +166,9 @@
 
 
 
-| [2026-11-26](records/2026-11-26.md) | sql + python |
+
+| [2026-11-27](records/2026-11-27.md) | javascript + tools |
+ [2026-11-26](records/2026-11-26.md) | sql + python |
  [2026-11-25](records/2026-11-25.md) | ai_ml + projects |
  [2026-11-24](records/2026-11-24.md) | projects + python |
  [2026-11-23](records/2026-11-23.md) | python + projects |
